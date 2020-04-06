@@ -5,3 +5,8 @@ MongoDB/Microdatos/casos_map_muse.csv
 .ipynb_checkpoints/Naive - LogisticRegression - CrossValidation - GridSearch-checkpoint.ipynb
 .ipynb_checkpoints/Command List - Data Preparation-checkpoint.ipynb
 MongoDB/Microdatos/casos_danos_bienes.csv
+MongoDB/Microdatos/victimas_desaparicion.csv
+MongoDB/Microdatos/victimas_danos_bienes.csv
+MongoDB/Microdatos/victimas_map_muse.csv
+MongoDB/Microdatos/casos_acciones_belicas.csv
+MongoDB/Microdatos/casos_desaparicion.csv

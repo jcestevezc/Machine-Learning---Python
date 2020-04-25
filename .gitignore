@@ -23,3 +23,5 @@ MongoDB/Microdatos/casos_desaparicion.csv
 Data_Wikipedia.csv
 MongoDB/.ipynb_checkpoints/MongoDB-checkpoint.ipynb
 Scikit learn/.ipynb_checkpoints/ML0101EN-Clas-Decision-Trees-drug-py-v1-checkpoint.ipynb
+Scikit learn/movies.csv
+Scikit learn/ratings.csv
